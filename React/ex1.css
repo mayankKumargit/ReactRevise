@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  #root{
+    background-color:rgb(237, 235, 228);
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  h1{
+    border: 2px solid rgb(9, 8, 85);
+    padding: 14px 10px 14px 12px;
+    border-radius: 30px;
+    background-color: bisque;
+    color: rgb(83, 71, 7);
+  }
+  
